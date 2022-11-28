@@ -95,7 +95,7 @@
 </tr>
 <tr>
 <th scope="row"><a title="Thesis" href="https://en.wikipedia.org/wiki/Thesis">Thesis</a></th>
-<td><a class="external text" href="1.pdf" rel="nofollow"><em>Finite Semifields and Projective Planes</em></a>&nbsp;(1963)</td>
+<td><a class="external text" href="knuth-phd-thesis-finite-semifields-projective-planes.pdf" rel="nofollow"><em>Finite Semifields and Projective Planes</em></a>&nbsp;(1963)</td>
 </tr>
 <tr>
 <th scope="row"><a title="Doctoral advisor" href="https://en.wikipedia.org/wiki/Doctoral_advisor">Doctoral advisor</a></th>
@@ -129,18 +129,18 @@
 
 
 <ul>
- <li><a target="_blank" href="https://github.com/manjunath5496/The-Art-of-Computer-Programming-Books/blob/master/aoc(1).pdf" style="text-decoration:none;">The Art of Computer Programming, Volume 4A: Combinatorial Algorithms, Part 1</a></li>
-  
-<li><a target="_blank" href="https://github.com/manjunath5496/The-Art-of-Computer-Programming-Books/blob/master/aoc(2).pdf" style="text-decoration:none;">The Art of Computer Programming, Fascicle 1: MMIX </a></li>  
-  
-<li><a target="_blank" href="https://github.com/manjunath5496/The-Art-of-Computer-Programming-Books/blob/master/aoc(3).pdf" style="text-decoration:none;">The Art of Computer Programming, Pre-Fascicle 2A</a></li>
+  <li><a target="_blank" href="taocp-vol1-fundamental-algorithms-3ed.pdf" style="text-decoration:none;">The Art of Computer Programming: Volume 1: Fundamental Algorithms </a></li>
 
- 
-<li><a target="_blank" href="https://github.com/manjunath5496/The-Art-of-Computer-Programming-Books/blob/master/aoc(4).pdf" style="text-decoration:none;">THE MMIX SUPPLEMENT: Supplement to The Art of Computer Programming Volumes 1, 2, 3</a></li>
-                               
-  <li><a target="_blank" href="https://github.com/manjunath5496/The-Art-of-Computer-Programming-Books/blob/master/aoc(5).pdf" style="text-decoration:none;">The Art of Computer Programming: Volume 1: Fundamental Algorithms  </a></li>   
+ <li><a target="_blank" href="taocp-vol2-seminumerical-algorithms-3ed.pdf" style="text-decoration:none;">The Art of Computer Programming, Volume 2: Seminumerical Algorithms</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/The-Art-of-Computer-Programming-Books/blob/master/aoc(6).pdf" style="text-decoration:none;">The Art of Computer Programming, Volume 2: Seminumerical Algorithms</a></li>
-                <li><a target="_blank" href="https://github.com/manjunath5496/The-Art-of-Computer-Programming-Books/blob/master/aoc(7).pdf" style="text-decoration:none;">The Art of Computer Programming: Volume 3: Sorting and Searching</a></li>  
-         
+<li><a target="_blank" href="taocp-vol3-sorting-and-searching-2ed.pdf" style="text-decoration:none;">The Art of Computer Programming: Volume 3: Sorting and Searching</a></li>
+
+<li><a target="_blank" href="mmix-supplement.pdf" style="text-decoration:none;">THE MMIX SUPPLEMENT: Supplement to The Art of Computer Programming Volumes 1, 2, 3</a></li>
+
+<li><a target="_blank" href="taocp-fascicle1-mmix.pdf" style="text-decoration:none;">The Art of Computer Programming, Fascicle 1: MMIX </a></li>
+
+<li><a target="_blank" href="taocp-vol4a-combinatorial-algorithms-part1.pdf" style="text-decoration:none;">The Art of Computer Programming, Volume 4A: Combinatorial Algorithms, Part 1</a></li>
+  
+<li><a target="_blank" href="taocp-fascicle2a-generating-all-n-tuples.pdf" style="text-decoration:none;">The Art of Computer Programming, Pre-Fascicle 2A: Generating All n - Tuples</a></li>
+
 </ul>
