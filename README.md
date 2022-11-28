@@ -1,7 +1,7 @@
 <table class="infobox biography vcard">
 <tbody>
 <tr>
-<td colspan="2"><a class="image" href="1.jpg"><img src="1.jpg" srcset="1.jpg" alt="KnuthAtOpenContentAlliance.jpg" width="192" height="227" data-file-width="427" data-file-height="505" /></a>
+<td colspan="2"><a class="image" href="knuth-circa-2005.jpg"><img src="knuth-circa-2005.jpg" srcset="1.jpg" alt="KnuthAtOpenContentAlliance.jpg" width="192" height="227" data-file-width="427" data-file-height="505" /></a>
 <div>Knuth in 2005</div>
 </td>
 </tr>
